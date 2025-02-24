@@ -22,5 +22,9 @@ command:
     - git push origin main
 
     - git pull origin main
-
+    
+    - git status
+    
     - git log : used to checking commit history
+
+    
