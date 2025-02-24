@@ -1,8 +1,3 @@
 # Merge V.S. Rebase
 
-## When you merge
-
-
-
-
-## when you rebase
+![alt text](<Screenshot (3).png>)
