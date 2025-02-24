@@ -24,6 +24,8 @@ command:
     - git pull origin main
     
     - git status
+
+    - git remote -v
     
     - git log : used to checking commit history
 
