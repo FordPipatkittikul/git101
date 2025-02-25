@@ -32,5 +32,6 @@ command:
 
 test
 - x
+- x
 
     
