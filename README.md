@@ -29,4 +29,4 @@ command:
     
     - git log : used to checking commit history
 
-    
+    - git stash
